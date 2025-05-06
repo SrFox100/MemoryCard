@@ -18,7 +18,7 @@ Python версии 3.x
 Установка и запуск
 Клонирование репозитория
 
-git clone https://github.com/SrFox100/MemoryCrad.git
+git clone https://github.com/SrFox100/MemoryCard.git
 Запуск приложения
 Откройте терминал и выполните команду внутри папки проекта:
 
